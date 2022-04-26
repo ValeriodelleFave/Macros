@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Macros</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="title">Calcolo dei macronutrienti</string>
+    <string name="grams">Grammi totali</string>
+    <string name="carbohydrates">Carboidrati per 100 gr</string>
+    <string name="proteins">Proteine per 100 gr</string>
+    <string name="fats">Grassi per 100 gr</string>
+    <string name="calc">Calcola</string>
+</resources>
